@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hi check check
+=======
+Hi modified check file
+>>>>>>> 7b4e323 (Folder B inserted)
