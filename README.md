@@ -1,2 +1,1 @@
-
-You can do it
+Aim high word hard
