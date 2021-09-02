@@ -1,1 +1,1 @@
-Aim high word hard
+Aim high pitch high you are smart
