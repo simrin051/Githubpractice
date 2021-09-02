@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hi,
 
 Aim high pitch high
+=======
+You can do it
+>>>>>>> 8edc6b7 (Added test.txt to FolderB)
