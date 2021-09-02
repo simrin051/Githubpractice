@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Look for your strength
+=======
+hello how are you
+>>>>>>> 1dd750f (Added find.txt)
