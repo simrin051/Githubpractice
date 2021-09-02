@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Hello how are you 
+=======
+Edited filE
+>>>>>>> 1301c4f (In folderb)
