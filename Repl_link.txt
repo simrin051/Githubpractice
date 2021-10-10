@@ -3,3 +3,4 @@ https://replit.com/@simrin051/Quiz-About-MySelf?v=
 Changed the repl link file in local repo
 
 
+Changed the repl file in Github repo
