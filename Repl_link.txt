@@ -1,1 +1,3 @@
 https://replit.com/@simrin051/Quiz-About-MySelf?v=1
+
+Changed the repl file in Github repo
